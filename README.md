@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @princeroy
-- 👀 I’m interested in java programming
-- 🌱 I’m currently learning c language
-- 💞️ I’m looking to collaborate on java coding 
+- 👀 I’m interested in web&app developments
+- 🌱 I’m currently learning html,css $ javascript 
+- 💞️ I’m looking to collaborate on wed development
 - 📫 How to reach me .. connect with me using email my id is "princeroy8606@gmail.com"
 
 <!---
